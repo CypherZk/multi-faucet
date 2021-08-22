@@ -8,6 +8,7 @@ This script is free because I'm too lazy to include a paid membership, feel free
 Get it from official website : [here](https://www.python.org/downloads) (disable max length and add it to path)
 
 2. Install pip
+
 First, check if pip isn't already installed (It's supposed to, but meh.. wasn't for me)
 ```
 pip -help
