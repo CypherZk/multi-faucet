@@ -15,6 +15,7 @@ First, check if pip isn't already installed by running in a cmd :
 pip -help
 ```
 If you get an error like it was for me right click and save this : [get-pip.py](https://bootstrap.pypa.io/get-pip.py)
+
 Right click anywhere in your browser, "save as".
 There's a limit with clipboard, so you'll run into errors trying to can copy/paste it.
 This file is huge since it's a hashed zip file.
