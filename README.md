@@ -34,7 +34,7 @@ pip install pynput
 ```
 You'll see a of download progress bar : it's installing the package and it's dependencies.
 
-now you can run the script :
+4. Now you can run the script :
 
 ```
 cd [path_to_file]
