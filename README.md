@@ -41,6 +41,8 @@ cd [path_to_file]
 python main.py
 ```
 
+You have 5s to go in Discord and put your cursor in type mode in the desired channel.
+
 Enjoy, no more pain typing all these faucets by hand 🖤
 
 ## Supported Faucets :
