@@ -9,7 +9,8 @@ Get it from official website : [here](https://www.python.org/downloads) (disable
 
 2. Install pip
 
-First, check if pip isn't already installed (It's supposed to, but meh.. wasn't for me)
+First, check if pip isn't already installed by running in a cmd :
+(It's supposed to be installed with python, but meh.. wasn't for me)
 ```
 pip -help
 ```
