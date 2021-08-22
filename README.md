@@ -42,3 +42,23 @@ python main.py
 ```
 
 Enjoy, no more pain typing all these faucets by hand 🖤
+
+## Supported Faucets :
+
+* ARRR
+* KMD
+* TOKEL
+* VRSC
+* CHIPS
+* BEAN
+* CLC
+* EDG
+* GET
+* GP
+* KATZ
+* MCL
+* NMD
+* POS
+* RAIN
+* XGC
+* ZILLA
