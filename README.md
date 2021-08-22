@@ -45,6 +45,8 @@ Enjoy, no more pain typing all these faucets by hand 🖤
 
 ## Supported Faucets :
 
+You can manually modify the main.py script to work only with desired bots
+
 * ARRR
 * KMD
 * TOKEL
