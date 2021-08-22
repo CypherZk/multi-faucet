@@ -1,6 +1,6 @@
 This script is free because I'm too lazy to include a paid membership, feel free to donate :
 ```
-
+zs1cd0xn0vxhvcpu3qevgnvmvdsfaznem7u8lj2tszcju2uq6lhtq5h659m39a9emmavl8c75nluxq
 ```
 # Install instructions
 
